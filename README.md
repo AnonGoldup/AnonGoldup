@@ -18,7 +18,7 @@ Passionate about streamlining infrastructure, automating workflows, and bridging
 
 ## 🔧 Featured Projects
 
-### [SharePoint to MyServe Sync](https://github.com/AnonGoldup/sharepoint-myserve-sync)
+### [SharePoint to MyServe Sync](https://github.com/AnonGoldup/device-sync-myserve)
 > Automates the syncing of SharePoint asset records with MyServe using Power Automate Desktop and Cloud Flows. Handles error checking, duplicates, and system updates.
 
 ---
