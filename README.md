@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm AnonGoldup
+# I'm AnonGoldup
 
 **IT System Administrator** | Automation Specialist | Future DevOps Engineer  
 Passionate about streamlining infrastructure, automating workflows, and bridging cloud systems with practical, real-world solutions.
