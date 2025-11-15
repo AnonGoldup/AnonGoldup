@@ -1,64 +1,94 @@
-## Hi there 👋
-# I'm AnonGoldup
+# Nick Gold
 
-**IT System Administrator** | Automation Specialist | Future DevOps Engineer  
-Passionate about streamlining infrastructure, automating workflows, and bridging cloud systems with practical, real-world solutions.
+**IT System Administrator & Software Developer & Infrastructure Engineer & Future DevOps Engineer**
 
----
+Building and maintaining enterprise-grade infrastructure for media management, home automation, and scalable services. Focused on Docker orchestration, reverse proxies, and modern system architecture.
 
-## ⚙️ What I Do
-
-- Automate system tasks with **PowerShell**, **Power Automate**, and **Graph API**
-- Build, manage, and monitor **hybrid environments** using **Microsoft 365**, **Azure**, **Entra ID**, and **Intune**
-- Sync devices and systems via **SharePoint**, **JSON**, and **API-based flows**
-- Operate and secure lab environments using **Fortinet**, **TrueNAS**, and **Proxmox**
-- Own end-to-end IT projects—from strategy to deployment and documentation
+🌐 [nickgold.tv](https://nickgold.tv)
 
 ---
 
-## 🔧 Featured Projects
+## 🚀 Current Projects
 
-### [SharePoint to MyServe Sync](https://github.com/AnonGoldup/device-sync-myserve)
-> Automates the syncing of SharePoint asset records with MyServe using Power Automate Desktop and Cloud Flows. Handles error checking, duplicates, and system updates.
+### Ultimate Docker Media Server (UDMS)
+Comprehensive Docker-based infrastructure running 30+ containers on Proxmox VE with TrueNAS SCALE storage.
 
----
+- **Stack**: Docker Compose, Traefik, Authelia, PostgreSQL, Redis
+- **Infrastructure**: Reverse proxy with SSL, OAuth authentication, health monitoring
+- **Automation**: n8n workflows, automated backups, service orchestration
+- **Features**: Media management, request handling, automated monitoring
 
-## 🧠 Currently Learning
+### Custom React Dashboard
+Real-time service monitoring and management dashboard for homelab infrastructure.
 
-- **GitHub Actions** & CI/CD workflows  
-- **Terraform & Bicep** for infrastructure as code  
-- **Azure Administrator (AZ-104)** certification path  
-- Building a **DevOps-ready GitHub portfolio**
+- **Stack**: React, TypeScript, Docker
+- **Features**: Real-time status, metrics visualization, service quick-access
+- **Integration**: Docker API, service health checks, custom metrics
 
----
+### Proxmox Homelab
+Multi-VM infrastructure optimized for security and performance.
 
-## 📁 Tech Stack
-
-- **Languages & Tools**: PowerShell, Bash, JSON, YAML  
-- **Systems**: Windows Server, Azure, TrueNAS, Proxmox, Fortinet  
-- **Platforms**: Microsoft 365, SharePoint, Teams, Entra ID  
-- **Automation**: Power Automate, PAD, Graph API, GitHub Actions (in progress)
-
----
-
-## 📫 Connect with Me
-
-- [GitHub](https://github.com/AnonGoldup)
+- **Platform**: Proxmox VE 8.4.1
+- **Storage**: TrueNAS SCALE (TERRAMASTER F4-423 NAS)
+- **VMs**: Isolated Ubuntu VMs for services, dashboard, and expansion
+- **Network**: Optimized topology with VLAN segmentation
 
 ---
 
-*Always learning. Always automating.*
-<!--
-**AnonGoldup/AnonGoldup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+### Infrastructure & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Networking & Security
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Authelia](https://img.shields.io/badge/Authelia-DC3545?style=flat&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Automation & Monitoring
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 Focus Areas
+
+- **Infrastructure as Code**: Docker Compose orchestration, automated deployments
+- **Network Architecture**: Reverse proxies, SSL/TLS management, service routing
+- **Security**: OAuth integration, authentication gateways, secure service exposure
+- **Automation**: Workflow automation, scheduled tasks, service monitoring
+- **Databases**: PostgreSQL administration, Redis caching strategies
+- **Full-Stack Development**: React/TypeScript frontends, Node.js backends
+
+---
+
+## 📫 Connect
+
+- 🌐 Website: [nickgold.tv](https://nickgold.tv)
+- 💼 GitHub: [@AnonGoldup](https://github.com/AnonGoldup)
+
+---
+
+<div align="center">
+<i>Building robust infrastructure, one container at a time.</i>
+</div>
