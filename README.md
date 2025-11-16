@@ -122,5 +122,5 @@ Automated workflows using n8n for service orchestration and infrastructure manag
 ---
 
 <div align="center">
-<i>Building robust infrastructure and scalable applications, one container at a time.</i>
+<i>Building robust infrastructure and scalable applications.</i>
 </div>
