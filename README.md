@@ -2,7 +2,7 @@
 
 **Infrastructure Engineer & Full-Stack Developer**
 
-Infrastructure Engineer and Full-Stack Developer specializing in enterprise-grade systems and scalable architectures. Experienced in building production applications from the ground up, implementing containerized microservices, and designing robust infrastructure solutions. Proven track record delivering workforce management platforms, automated deployment pipelines, and comprehensive monitoring systems.
+Infrastructure Engineer and Full-Stack Developer with extensive IT operations experience in enterprise environments. Specializing in system administration, network management, and full-stack application development. Proven expertise in building production-grade workforce management platforms, implementing containerized microservices, and managing enterprise IT infrastructure. Skilled in identity management, device administration, automated deployments, and comprehensive monitoring systems. Experienced with Microsoft enterprise stack, ERP systems, and security hardening. Passionate about automation, system reliability, and optimizing performance at scale.
 
 🌐 [nickgold.tv](https://nickgold.tv)
 
@@ -10,7 +10,7 @@ Infrastructure Engineer and Full-Stack Developer specializing in enterprise-grad
 
 ## 🚀 Current Projects
 
-### Ultimate Docker Media Server (UDMS)
+### Docker Media Server
 Comprehensive Docker-based infrastructure running 30+ containers on Proxmox VE with TrueNAS SCALE storage.
 
 - **Stack**: Docker Compose, Traefik, Nginx, PostgreSQL, Redis, Plex, n8n, Grafana, Prometheus, Authelia, OAuth, Cloudflare
@@ -54,11 +54,20 @@ Automated workflows using n8n for service orchestration and infrastructure manag
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
+
+### Microsoft Enterprise Stack
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ### Networking & Security
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Authelia](https://img.shields.io/badge/Authelia-DC3545?style=flat&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
@@ -90,14 +99,17 @@ Automated workflows using n8n for service orchestration and infrastructure manag
 ## 📊 Focus Areas
 
 - **Enterprise Application Development**: Production-grade workforce management platforms, full-stack solutions
+- **IT Operations & System Administration**: Windows Server, Active Directory, device management, user support
+- **Identity & Access Management**: Microsoft Entra ID, 2FA administration, access control, OAuth integration
 - **Infrastructure as Code**: Docker Compose orchestration, automated deployments, containerized microservices
-- **Network Architecture**: Reverse proxies (Traefik, Nginx), SSL/TLS management, service routing
-- **Security**: OAuth integration, authentication gateways (Authelia), secure service exposure
-- **Database Administration**: PostgreSQL, SQL Server, Redis caching strategies
+- **Network Architecture**: Enterprise networking, DHCP/DNS management, troubleshooting (Wireshark), reverse proxies
+- **Security**: Email security, authentication gateways, secure service exposure, device hardening
+- **Microsoft Enterprise Stack**: Office 365 administration, SharePoint, Active Directory
+- **Database Administration**: PostgreSQL, SQL Server, Redis caching strategies, backup management
 - **Monitoring & Observability**: Prometheus metrics, Grafana dashboards, comprehensive health checks
-- **Automation**: n8n workflow automation, scheduled tasks, service orchestration
+- **Automation & Scripting**: PowerShell automation, n8n workflows, Bash scripting, deployment automation
 - **Full-Stack Development**: React/TypeScript frontends, Node.js/Express backends, REST APIs
-- **System Reliability**: PM2 process management, health monitoring, automated recovery
+- **Hardware Support**: Laptop repairs/upgrades, BIOS configuration, troubleshooting, printer management
 
 ---
 
@@ -110,5 +122,5 @@ Automated workflows using n8n for service orchestration and infrastructure manag
 ---
 
 <div align="center">
-<i>Building robust infrastructure and scalable application.</i>
+<i>Building robust infrastructure and scalable applications, one container at a time.</i>
 </div>
