@@ -1,21 +1,24 @@
 # Nicholas Goldup
 
-**Database Administrator | IT Systems Engineer**
+**IT Systems Engineer | Infrastructure, Databases, Automation, Development**
 
-Database administrator and systems engineer with 10+ years of experience in IT operations. Specializing in SQL Server and PostgreSQL database design, performance tuning, backup/recovery, and security hardening. Experienced building production database systems from the ground up, automating DBA operations with PowerShell and T-SQL, and managing enterprise infrastructure including Microsoft 365, Active Directory, and containerized environments.
+Systems engineer with 10+ years of experience spanning IT operations, database administration, infrastructure management, and full-stack development. I build production systems from the ground up - from SQL Server databases and PowerShell automation to containerized environments and full-stack web applications. Focused on continuous learning across all areas of IT.
 
 ---
 
-## Featured Repositories
+## Repositories
 
-### sql-server-maintenance
-Production-tested T-SQL scripts for SQL Server index maintenance, statistics management, backup verification, health monitoring, capacity planning, and query performance analysis.
+### Database Administration
+- **sql-server-maintenance** - T-SQL scripts for index maintenance, backup verification, health checks, capacity monitoring, and performance analysis
+- **database-runbooks** - Operational runbooks for backup/recovery, incident response, patching, and performance troubleshooting
 
-### database-runbooks
-Operational runbooks for SQL Server administration covering backup/recovery procedures, incident response, patching checklists, and performance troubleshooting guides.
+### Automation & Scripting
+- **powershell-scripts** - PowerShell automation for Microsoft 365 administration, SQL Server operations, onboarding workflows, and device management
+- **onboarding-automation** - Employee onboarding and offboarding workflow automation
 
-### powershell-scripts
-PowerShell automation for IT system administration, Microsoft 365 management, and SQL Server database operations including index maintenance, backup verification, and health check reporting.
+### Infrastructure & Networking
+- **infrastructure-lab** - Multi-VM infrastructure environment with Proxmox, Docker, TrueNAS, VLANs, and monitoring
+- **device-sync-myserve** - Device synchronization and management automation
 
 ---
 
@@ -23,24 +26,32 @@ PowerShell automation for IT system administration, Microsoft 365 management, an
 
 **Databases:** SQL Server, PostgreSQL, T-SQL, Stored Procedures, Query Optimization, Backup & Recovery
 
-**Scripting & Automation:** PowerShell, Python, Bash, T-SQL
+**Infrastructure:** Windows Server, Active Directory, Proxmox, Docker, TrueNAS, Linux, ZFS
 
-**Infrastructure:** Windows Server, Active Directory, Microsoft 365, Proxmox, Docker, Linux
+**Networking:** VLANs, VPN (WireGuard), Fortinet, Reverse Proxy, DNS/DHCP, Cloudflare
 
-**Monitoring:** Prometheus, Grafana, SQL Server DMVs, Performance Counters
+**Cloud & Identity:** Microsoft 365, Entra ID, Intune, SharePoint, Azure
 
-**Development:** React, TypeScript, Node.js, REST APIs, Git
+**Scripting & Automation:** PowerShell, Python, Bash, T-SQL, n8n
+
+**Monitoring:** Prometheus, Grafana, Uptime Kuma, Performance Counters
+
+**Development:** React, TypeScript, Node.js, Express, REST APIs, Git
+
+**Security:** MFA, RBAC, Firewall Policies, Audit Logging, Encryption
 
 ---
 
 ## Focus Areas
 
-- SQL Server administration, performance tuning, and security
-- Database design, indexing strategies, and query optimization
-- Backup/recovery planning and disaster recovery
-- PowerShell automation for DBA and IT operations
-- Infrastructure management and monitoring
-- ITSM practices: incident, problem, change, and capacity management
+- Database design, administration, and performance tuning
+- Infrastructure architecture and virtualization
+- Network segmentation, security, and monitoring
+- PowerShell and scripting automation for IT operations
+- Microsoft enterprise stack administration
+- Full-stack application development
+- ITSM practices and operational documentation
+- Continuous learning across all IT disciplines
 
 ---
 
